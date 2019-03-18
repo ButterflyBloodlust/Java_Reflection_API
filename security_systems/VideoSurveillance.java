@@ -6,7 +6,6 @@ public class VideoSurveillance extends SecuritySystem{
 
 	public VideoSurveillance(boolean isPassive) {
 		super(isPassive);
-		
 	}
 	
 	public VideoSurveillance() {

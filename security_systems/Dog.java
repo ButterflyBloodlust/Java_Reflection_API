@@ -6,7 +6,6 @@ public class Dog extends SecuritySystem{
 	
 	public Dog(boolean isPassive) {
 		super(isPassive);
-		
 	}
 	
 	public Dog() {
